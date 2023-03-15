@@ -1,0 +1,35 @@
+.lightSearch-container {
+  height: 100%;
+  align-items: center;
+  display: flex;
+  margin-right: 20px;
+}
+
+.lightSearch-container input {
+  height: 32px;
+  border: none;
+  border-bottom: 1px solid black;
+  font-size: 16px;
+  outline: 0;
+  background: transparent;
+  color: black;
+}
+
+/* dark */
+
+.darkSearch-container {
+  height: 100%;
+  align-items: center;
+  display: flex;
+  margin-right: 20px;
+}
+
+.darkSearch-container input {
+  height: 32px;
+  border: none;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.801);
+  font-size: 16px;
+  outline: 0;
+  background: transparent;
+  color: white;
+}

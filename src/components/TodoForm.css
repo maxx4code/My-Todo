@@ -1,0 +1,61 @@
+.lightForm-container {
+  margin: 1rem auto;
+  margin-top: 1rem;
+  border-radius: 6px;
+  padding: 10px;
+  width: 20rem;
+  background-color: white;
+  text-align: center;
+  align-items: center;
+}
+
+.lightForm input {
+  background-color: transparent;
+  height: 30px;
+  border-radius: 6px;
+  background-color: transparent;
+  color: black;
+  border: 1px solid #1ad1b9;
+  padding-left: 10px;
+  outline: none;
+}
+
+.lightAdd {
+  margin-left: 1rem;
+}
+
+.lightForm{
+  padding: 2%;
+}
+
+/* dark */
+
+.darkForm-container {
+  margin: 1rem auto;
+  margin-top: 1rem;
+  border-radius: 6px;
+  padding: 10px;
+  width: 20rem;
+  background-color: #313131;
+  text-align: center;
+  align-items: center;
+}
+
+.darkForm input {
+  background-color: transparent;
+  height: 30px;
+  border-radius: 6px;
+  background-color: transparent;
+  color: white;
+  border: 1px solid #1ad1b9;
+  padding-left: 10px;
+  outline: none;
+}
+
+.darkAdd {
+  margin-left: 1rem;
+}
+
+.darkForm{
+  padding: 2%;
+}
